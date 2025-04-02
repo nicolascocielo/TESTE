@@ -1,1 +1,15 @@
-https://youtu.be/rTsbSY04s1Y?si=hYQnC8aR8DF8snr2
+
+
+
+
+<body>//corpo do documento
+</h1>//chuva de arroz</h1>
+<img src="local da imagem">
+<p>//paragrafo</p>
+<br>//pular linha
+<center>//centralizar</center>
+
+<body>
+
+
+</html>
